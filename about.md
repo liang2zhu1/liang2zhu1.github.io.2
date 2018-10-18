@@ -19,3 +19,4 @@ test
 TOUCH 
     adsa
 make ane dit
+test
